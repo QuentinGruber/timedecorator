@@ -1,0 +1,11 @@
+{
+  "name": "timedecorator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "timedecorator.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
